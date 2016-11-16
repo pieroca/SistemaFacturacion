@@ -1,0 +1,7 @@
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\Capa Negocio\bin\Debug\Capa Negocio.dll
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\Capa Negocio\bin\Debug\Capa Negocio.pdb
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\Capa Negocio\bin\Debug\Capa Datos.dll
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\Capa Negocio\bin\Debug\Capa Datos.pdb
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\Capa Negocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\Capa Negocio\obj\Debug\Capa Negocio.dll
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\Capa Negocio\obj\Debug\Capa Negocio.pdb

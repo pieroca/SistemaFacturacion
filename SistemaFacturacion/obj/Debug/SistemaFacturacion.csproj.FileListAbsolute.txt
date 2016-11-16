@@ -1,0 +1,14 @@
+c:\users\piero\documents\visual studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.exe.config
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csprojResolveAssemblyReference.cache
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Properties.Resources.resources
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csproj.GenerateResource.Cache
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.exe
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.pdb
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\bin\Debug\Capa Presentacion.dll
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\bin\Debug\Capa Negocio.dll
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\bin\Debug\Capa Datos.dll
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\bin\Debug\Capa Presentacion.pdb
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\bin\Debug\Capa Negocio.pdb
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\bin\Debug\Capa Datos.pdb
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.exe
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.pdb

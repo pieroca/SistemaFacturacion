@@ -1,0 +1,8 @@
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\Capa Datos\obj\Debug\CapaDatos.csproj.GenerateResource.Cache
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\Capa Datos\bin\Debug\Capa Datos.dll.config
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\Capa Datos\bin\Debug\Capa Datos.dll
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\Capa Datos\bin\Debug\Capa Datos.pdb
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\Capa Datos\obj\Debug\CapaDatos.Properties.Resources.resources
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\Capa Datos\obj\Debug\Capa Datos.dll
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\Capa Datos\obj\Debug\Capa Datos.pdb
+C:\Users\piero\Documents\Visual Studio 2013\Projects\SistemaFacturacion\Capa Datos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
